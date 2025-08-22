@@ -29,8 +29,8 @@ Aquí encontrarás mis proyectos, colaboraciones y experimentos en desarrollo de
 ¿Quieres colaborar, tienes alguna sugerencia o quieres saludar?  
 Puedes encontrarme en:
 
-- 📧 Email: *[tu correo aquí]*
-- 💬 LinkedIn: *[tu LinkedIn aquí]*
+- 📧 Email: *diazemanuel323@gmail.com*
+
 
 ---
 
