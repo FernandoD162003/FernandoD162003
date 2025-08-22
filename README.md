@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy FernandoD162003
 
-<!--
-**FernandoD162003/FernandoD162003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
+Aquí encontrarás mis proyectos, colaboraciones y experimentos en desarrollo de software. 🚀
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Desarrollador apasionado por la tecnología y la programación.
+- 💡 Siempre aprendiendo nuevas herramientas y lenguajes.
+- 🤝 Abierto a colaborar en proyectos interesantes.
+
+## Tecnologías favoritas
+
+- JavaScript / TypeScript
+- Figma
+- Node.js
+- React
+- C#
+
+## ¿Qué puedes encontrar aquí?
+
+- Proyectos personales
+- Ejercicios de aprendizaje
+- Colaboraciones en comunidad
+- Recursos útiles para otros desarrolladores
+
+## Contacto
+
+¿Quieres colaborar, tienes alguna sugerencia o quieres saludar?  
+Puedes encontrarme en:
+
+- 📧 Email: *[tu correo aquí]*
+- 💬 LinkedIn: *[tu LinkedIn aquí]*
+
+---
+
+¡Gracias por visitar mi perfil!  
